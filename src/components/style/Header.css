@@ -1,6 +1,6 @@
 #header {
   font-size: 8rem;
-  background-image: url("C:\Users\JD\Desktop\react\shopping_cart\src\assets\headertext.jpg");
+  background-image: url(/public/headertext.jpg);
   background-size: 100%;
   background-position: center;
   background-size: auto;

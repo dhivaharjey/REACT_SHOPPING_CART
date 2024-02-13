@@ -10,7 +10,7 @@ function App() {
   const productCard = [
     {
       productName: "G-shock  ",
-      image: "src/assets/watch.jpg",
+      image: "/watch.jpg",
       oldPrice: "₹20,000 ",
       price: "15,999",
       offers: "Offer price",
@@ -18,7 +18,7 @@ function App() {
     },
     {
       productName: "JDM Mens shoe",
-      image: "src/assets/shoe.avif",
+      image: "/shoe.avif",
       oldPrice: "₹9,000 ",
       price: "8,999",
       offers: "",
@@ -26,7 +26,7 @@ function App() {
     },
     {
       productName: "S-R-S shoes",
-      image: "src/assets/s1.webp",
+      image: "/s1.webp",
       oldPrice: "₹7,799",
       price: "7,000",
       offers: "",
@@ -34,7 +34,7 @@ function App() {
     },
     {
       productName: "EYECRAFT EYEWEARS",
-      image: "src/assets/glass.jpg",
+      image: "/glass.jpg",
       oldPrice: "₹18,000 ",
       price: "14,999",
       offers: "Offer price",
@@ -42,7 +42,7 @@ function App() {
     },
     {
       productName: "XYALX ",
-      image: "src/assets/pant.jpg",
+      image: "/pant.jpg",
       oldPrice: "₹3,500",
       price: "2,000",
       offers: "Offer price",
@@ -50,7 +50,7 @@ function App() {
     },
     {
       productName: "GOOGLE PIXAL 8 pro",
-      image: "src/assets/phone.webp",
+      image: "/phone.webp",
       oldPrice: "₹1,13,500",
       price: "1,12,500",
       offers: "",
@@ -58,7 +58,7 @@ function App() {
     },
     {
       productName: "LPS causual shirt ",
-      image: "src/assets/shirt.webp",
+      image: "/shirt.webp",
       oldPrice: "₹2,000",
       price: "1,500",
       offers: "Offer price",
@@ -66,7 +66,7 @@ function App() {
     },
     {
       productName: "REES",
-      image: "src/assets/t-shirts.jpg",
+      image: "/t-shirts.jpg",
       oldPrice: "₹900",
       price: "700",
       offers: "",
