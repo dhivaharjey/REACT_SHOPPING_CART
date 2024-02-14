@@ -17,7 +17,7 @@ img {
     5px 5px 30px 15px rgba(0, 0, 0, 0.2);
 }
 .container {
-  max-width: 85vw;
+  max-width: 95vw;
 }
 @media screen and (max-width: 425px) {
   .container {

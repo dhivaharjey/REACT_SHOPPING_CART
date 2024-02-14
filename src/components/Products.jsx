@@ -31,7 +31,7 @@ function Products({ item, index, setCartCount }) {
               <div class="text-dark fs-5 text-decoration-line-through">
                 {item.oldPrice}
               </div>
-              <span className="text-success fs-5 fw-bolder  fst-italic">
+              <span className="text-success fs-6 fw-bolder  fst-italic">
                 {item.offers}
               </span>
               <div class="text-dark fs-4 badge bg-normal text-wrap mb-4">
